@@ -1,0 +1,7 @@
+{
+  "name": "medlog",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
