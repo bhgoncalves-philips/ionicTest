@@ -14,3 +14,29 @@
 // To declare rules for a specific mode, create a child rule
 // for the .md, .ios, or .wp mode classes. The mode class is
 // automatically applied to the <body> element in the app.
+.confirm-button{
+    background-color: $navy-blue !important;
+    width: 100%;
+    border-radius: 5px;
+}
+.text-box{
+    color: $navy-blue;
+    border-bottom: 1px !important;
+    border-color: #9FBCCA;
+}
+.link-text{
+    color: $navy-blue;
+}
+
+row{
+    width: 100%;
+}
+.toolbar-background{
+    background-color: #135E7B;
+}
+.toolbar-title{
+    color:#EFEFF1;
+}
+.icon-md-menu .icon-ios-menu{
+    color:#EFEFF1 !important;
+}
